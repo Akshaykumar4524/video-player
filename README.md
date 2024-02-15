@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Local setup steps
-1. clone the repo or download the code
+1. clone the repo from https://github.com/Akshaykumar4524/video-player.git  or download the code
 2. In the project directory, you can run:
    `npm start`
    Runs the app in the development mode.\
